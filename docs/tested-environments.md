@@ -21,8 +21,8 @@ python3.12 -m venv .venv
 .venv/bin/python verify_all_results.py
 ```
 
-The modern host profile passed 83 tests and 103 subtests locally and in
-[CI](https://github.com/monurkeskin/Solver-CL-Agent/actions/runs/39441201164).
+The modern host profile passed 89 tests and 103 subtests locally and in
+[CI](https://github.com/monurkeskin/Personalized-Affective-Perception-via-Continual-Learning-TAFFC-2026/actions).
 The existing public-data verifier passed 99 checks. The suite includes actual
 Solver decisions with artificial affect and inert output, plus separately
 identified synthetic transport/startup fixtures. See [runtime setup](runtime.md)
