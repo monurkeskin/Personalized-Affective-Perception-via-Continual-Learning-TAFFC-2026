@@ -4,12 +4,39 @@
   "name": "Personalized Affective Perception via Continual Learning in Human-Agent Negotiation",
   "description": "Continual learning personalizes the agent’s facial affect model to the person it is negotiating with. The model estimates valence and arousal. Changes in the direction and intensity of these estimates adjust the value the agent seeks for itself in its next offer.",
   "codeRepository": "https://github.com/monurkeskin/Personalized-Affective-Perception-via-Continual-Learning-TAFFC-2026",
-  "url": "https://github.com/monurkeskin/Personalized-Affective-Perception-via-Continual-Learning-TAFFC-2026",
+  "url": "https://arxiv.org/abs/2611.14247",
   "license": "https://spdx.org/licenses/MIT.html",
   "author": [
     {
       "@type": "Person",
-      "name": "Anonymous"
+      "givenName": "Mehmet Onur",
+      "familyName": "Keskin",
+      "@id": "https://orcid.org/0000-0002-8025-4304"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Berk",
+      "familyName": "Buzcu"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Nikhil",
+      "familyName": "Churamani"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Reyhan",
+      "familyName": "Aydoğan"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Hatice",
+      "familyName": "Gunes"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Catholijn M.",
+      "familyName": "Jonker"
     }
   ],
   "keywords": [
@@ -32,10 +59,30 @@
     "author": [
       {
         "@type": "Person",
-        "name": "Anonymous"
+        "name": "Mehmet Onur Keskin"
+      },
+      {
+        "@type": "Person",
+        "name": "Berk Buzcu"
+      },
+      {
+        "@type": "Person",
+        "name": "Nikhil Churamani"
+      },
+      {
+        "@type": "Person",
+        "name": "Reyhan Aydoğan"
+      },
+      {
+        "@type": "Person",
+        "name": "Hatice Gunes"
+      },
+      {
+        "@type": "Person",
+        "name": "Catholijn M. Jonker"
       }
     ],
-    "creativeWorkStatus": "Under review",
-    "url": "https://github.com/monurkeskin/Personalized-Affective-Perception-via-Continual-Learning-TAFFC-2026#8-citation"
+    "creativeWorkStatus": "Preprint",
+    "url": "https://arxiv.org/abs/2611.14247"
   }
 }

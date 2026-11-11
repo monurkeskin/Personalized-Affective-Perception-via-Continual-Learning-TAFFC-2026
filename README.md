@@ -10,6 +10,11 @@ Personalized Affective Perception via Continual Learning in Human-Agent Negotiat
   <a href="#8-citation">Citation</a>
 </p>
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2611.14247"><img src="https://img.shields.io/badge/arXiv-2611.14247-b31b1b.svg" alt="arXiv:2611.14247"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
+</p>
+
 **TL;DR:** Continual learning personalizes the agent’s facial affect model to the person it is negotiating with. The model estimates valence and arousal. Changes in the direction and intensity of these estimates adjust the value the agent seeks for itself in its next offer.
 
 **Keywords:** Human-Agent Interaction, Human-Robot Interaction, Automated Negotiation, Affective Computing, Continual Learning, Facial Expression Recognition, Personalization, Emotion Recognition
@@ -288,14 +293,18 @@ Related software includes the maintained NEGOTIATOR framework and the foundation
 
 ## 8. Citation
 
-Use the manuscript citation below. [CITATION.cff](CITATION.cff), [reference.bib](reference.bib) and [CodeMeta](codemeta.json) provide citation and software metadata. The manuscript remains under review.
+If you use this code, the experimental framework, or the study dataset in your research, please cite our preprint:
 
 ```bibtex
-@article{PersonalizedAffectivePerception2025,
-  title   = {Personalized Affective Perception via Continual Learning in Human-Agent Negotiation},
-  author  = {Anonymous},
-  journal = {Under Review},
-  year    = {2025}
+@article{keskin2026personalized,
+  title         = {Personalized Affective Perception via Continual Learning in Human-Agent Negotiation},
+  author        = {Keskin, Mehmet Onur and Buzcu, Berk and Churamani, Nikhil and Aydo{\u{g}}an, Reyhan and Gunes, Hatice and Jonker, Catholijn M.},
+  journal       = {arXiv preprint arXiv:2611.14247},
+  year          = {2026},
+  eprint        = {2611.14247},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.AI},
+  url           = {https://arxiv.org/abs/2611.14247}
 }
 ```
 

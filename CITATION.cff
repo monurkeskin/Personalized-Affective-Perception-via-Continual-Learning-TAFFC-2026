@@ -1,12 +1,28 @@
 cff-version: 1.2.0
-message: Please cite the accompanying manuscript when using this code or the derived study data.
+message: Please cite the accompanying preprint when using this code or the derived study data.
 type: software
 title: Personalized Affective Perception via Continual Learning in Human-Agent Negotiation
 authors:
-- family-names: Anonymous
+- family-names: Keskin
+  given-names: Mehmet Onur
+  orcid: https://orcid.org/0000-0002-8025-4304
+- family-names: Buzcu
+  given-names: Berk
+- family-names: Churamani
+  given-names: Nikhil
+- family-names: Aydoğan
+  given-names: Reyhan
+- family-names: Gunes
+  given-names: Hatice
+- family-names: Jonker
+  given-names: Catholijn M.
 license: MIT
 repository-code: https://github.com/monurkeskin/Personalized-Affective-Perception-via-Continual-Learning-TAFFC-2026
-url: https://github.com/monurkeskin/Personalized-Affective-Perception-via-Continual-Learning-TAFFC-2026
+url: https://arxiv.org/abs/2611.14247
+identifiers:
+- type: other
+  value: arXiv:2611.14247
+  description: arXiv preprint identifier
 keywords:
 - affective computing
 - continual learning
@@ -18,11 +34,25 @@ keywords:
 - emotion recognition
 - online learning
 preferred-citation:
-  type: unpublished
+  type: article
   title: Personalized Affective Perception via Continual Learning in Human-Agent Negotiation
   authors:
-  - family-names: Anonymous
-  year: 2025
-  status: submitted
-  notes: Manuscript under review.
-  url: https://github.com/monurkeskin/Personalized-Affective-Perception-via-Continual-Learning-TAFFC-2026#8-citation
+  - family-names: Keskin
+    given-names: Mehmet Onur
+    orcid: https://orcid.org/0000-0002-8025-4304
+  - family-names: Buzcu
+    given-names: Berk
+  - family-names: Churamani
+    given-names: Nikhil
+  - family-names: Aydoğan
+    given-names: Reyhan
+  - family-names: Gunes
+    given-names: Hatice
+  - family-names: Jonker
+    given-names: Catholijn M.
+  journal: arXiv preprint arXiv:2611.14247
+  year: 2026
+  eprint: '2611.14247'
+  archiveprefix: arXiv
+  primaryclass: cs.AI
+  url: https://arxiv.org/abs/2611.14247

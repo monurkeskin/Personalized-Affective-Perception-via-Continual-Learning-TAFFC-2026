@@ -1,10 +1,26 @@
 {
   "title": "Personalized Affective Perception via Continual Learning in Human-Agent Negotiation",
   "upload_type": "software",
-  "description": "Continual learning personalizes the agent’s facial affect model to the person it is negotiating with. The model estimates valence and arousal. Changes in the direction and intensity of these estimates adjust the value the agent seeks for itself in its next offer. The accompanying manuscript is under review.",
+  "description": "Continual learning personalizes the agent’s facial affect model to the person it is negotiating with. The model estimates valence and arousal. Changes in the direction and intensity of these estimates adjust the value the agent seeks for itself in its next offer. Accompanies the preprint at arXiv:2611.14247.",
   "creators": [
     {
-      "name": "Anonymous"
+      "name": "Keskin, Mehmet Onur",
+      "orcid": "0000-0002-8025-4304"
+    },
+    {
+      "name": "Buzcu, Berk"
+    },
+    {
+      "name": "Churamani, Nikhil"
+    },
+    {
+      "name": "Aydoğan, Reyhan"
+    },
+    {
+      "name": "Gunes, Hatice"
+    },
+    {
+      "name": "Jonker, Catholijn M."
     }
   ],
   "license": "MIT",
@@ -18,5 +34,12 @@
     "personalization",
     "emotion recognition",
     "online learning"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://arxiv.org/abs/2611.14247",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
   ]
 }
